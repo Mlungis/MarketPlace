@@ -141,3 +141,25 @@ Admin moderation dashboard
 👨‍💻 Developer
 
 Developed as a portfolio project to demonstrate practical software engineering skills in building scalable, real-world web applications.
+
+
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login](Login.png)
+
+### 📊 Dashboard
+![Dashboard](Dash.png)
+
+### 📦 My Posts
+![My Posts](mypost.png)
+
+### 📝 Create Post
+![Post](post.png)
+
+### 👤 Profile
+![Profile](profile.png)
+
+### 🔑 Change Password
+![Password](password.png)
+
